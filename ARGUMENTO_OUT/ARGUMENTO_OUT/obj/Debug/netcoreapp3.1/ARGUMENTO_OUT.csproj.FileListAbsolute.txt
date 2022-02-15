@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\bin\Debug\netcoreapp3.1\ARGUMENTO_OUT.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\bin\Debug\netcoreapp3.1\ARGUMENTO_OUT.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\bin\Debug\netcoreapp3.1\ARGUMENTO_OUT.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\bin\Debug\netcoreapp3.1\ARGUMENTO_OUT.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\bin\Debug\netcoreapp3.1\ARGUMENTO_OUT.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\bin\Debug\netcoreapp3.1\ARGUMENTO_OUT.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\obj\Debug\netcoreapp3.1\ARGUMENTO_OUT.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\obj\Debug\netcoreapp3.1\ARGUMENTO_OUT.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\obj\Debug\netcoreapp3.1\ARGUMENTO_OUT.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\obj\Debug\netcoreapp3.1\ARGUMENTO_OUT.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\obj\Debug\netcoreapp3.1\ARGUMENTO_OUT.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\obj\Debug\netcoreapp3.1\ARGUMENTO_OUT.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTO_OUT\ARGUMENTO_OUT\obj\Debug\netcoreapp3.1\ARGUMENTO_OUT.genruntimeconfig.cache

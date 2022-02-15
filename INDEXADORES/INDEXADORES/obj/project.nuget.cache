@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1rH02fGcdyw0aZmQ24sJtJKHzniab1o6X8QXfVc+Mh/+pS8c+JgMvuHQYDa0z1jMWoSC/E3+qiYI68Uol5oUUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\INDEXADORES\\INDEXADORES\\INDEXADORES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\bin\Debug\netcoreapp3.1\palavra_chave _THIS.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\bin\Debug\netcoreapp3.1\palavra_chave _THIS.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\bin\Debug\netcoreapp3.1\palavra_chave _THIS.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\bin\Debug\netcoreapp3.1\palavra_chave _THIS.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\bin\Debug\netcoreapp3.1\palavra_chave _THIS.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\bin\Debug\netcoreapp3.1\palavra_chave _THIS.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\obj\Debug\netcoreapp3.1\palavra_chave _THIS.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\obj\Debug\netcoreapp3.1\palavra_chave _THIS.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\obj\Debug\netcoreapp3.1\palavra_chave _THIS.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\obj\Debug\netcoreapp3.1\palavra_chave _THIS.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\obj\Debug\netcoreapp3.1\palavra_chave _THIS.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\obj\Debug\netcoreapp3.1\palavra_chave _THIS.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\palavra_chave _THIS\palavra_chave _THIS\obj\Debug\netcoreapp3.1\palavra_chave _THIS.genruntimeconfig.cache

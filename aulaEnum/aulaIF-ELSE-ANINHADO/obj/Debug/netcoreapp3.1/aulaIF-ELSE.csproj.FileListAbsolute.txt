@@ -1,0 +1,13 @@
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\bin\Debug\netcoreapp3.1\aulaIF-ELSE.exe
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\bin\Debug\netcoreapp3.1\aulaIF-ELSE.deps.json
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\bin\Debug\netcoreapp3.1\aulaIF-ELSE.runtimeconfig.json
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\bin\Debug\netcoreapp3.1\aulaIF-ELSE.runtimeconfig.dev.json
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\bin\Debug\netcoreapp3.1\aulaIF-ELSE.dll
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\bin\Debug\netcoreapp3.1\aulaIF-ELSE.pdb
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\obj\Debug\netcoreapp3.1\aulaIF-ELSE.csproj.AssemblyReference.cache
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\obj\Debug\netcoreapp3.1\aulaIF-ELSE.AssemblyInfoInputs.cache
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\obj\Debug\netcoreapp3.1\aulaIF-ELSE.AssemblyInfo.cs
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\obj\Debug\netcoreapp3.1\aulaIF-ELSE.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\obj\Debug\netcoreapp3.1\aulaIF-ELSE.dll
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\obj\Debug\netcoreapp3.1\aulaIF-ELSE.pdb
+C:\Users\Adilson\source\repos\aulaEnum\aulaIF-ELSE-ANINHADO\obj\Debug\netcoreapp3.1\aulaIF-ELSE.genruntimeconfig.cache

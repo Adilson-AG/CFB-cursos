@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\bin\Debug\netcoreapp3.1\METODO_CONSTRUTOR.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\bin\Debug\netcoreapp3.1\METODO_CONSTRUTOR.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\bin\Debug\netcoreapp3.1\METODO_CONSTRUTOR.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\bin\Debug\netcoreapp3.1\METODO_CONSTRUTOR.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\bin\Debug\netcoreapp3.1\METODO_CONSTRUTOR.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\bin\Debug\netcoreapp3.1\METODO_CONSTRUTOR.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\obj\Debug\netcoreapp3.1\METODO_CONSTRUTOR.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\obj\Debug\netcoreapp3.1\METODO_CONSTRUTOR.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\obj\Debug\netcoreapp3.1\METODO_CONSTRUTOR.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\obj\Debug\netcoreapp3.1\METODO_CONSTRUTOR.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\obj\Debug\netcoreapp3.1\METODO_CONSTRUTOR.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\obj\Debug\netcoreapp3.1\METODO_CONSTRUTOR.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\METODO_CONSTRUTOR\METODO_CONSTRUTOR\obj\Debug\netcoreapp3.1\METODO_CONSTRUTOR.genruntimeconfig.cache

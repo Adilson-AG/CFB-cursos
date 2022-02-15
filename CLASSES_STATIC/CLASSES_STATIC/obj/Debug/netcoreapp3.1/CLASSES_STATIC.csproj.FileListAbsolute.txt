@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\bin\Debug\netcoreapp3.1\CLASSES_STATIC.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\bin\Debug\netcoreapp3.1\CLASSES_STATIC.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\bin\Debug\netcoreapp3.1\CLASSES_STATIC.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\bin\Debug\netcoreapp3.1\CLASSES_STATIC.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\bin\Debug\netcoreapp3.1\CLASSES_STATIC.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\bin\Debug\netcoreapp3.1\CLASSES_STATIC.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\obj\Debug\netcoreapp3.1\CLASSES_STATIC.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\obj\Debug\netcoreapp3.1\CLASSES_STATIC.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\obj\Debug\netcoreapp3.1\CLASSES_STATIC.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\obj\Debug\netcoreapp3.1\CLASSES_STATIC.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\obj\Debug\netcoreapp3.1\CLASSES_STATIC.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\obj\Debug\netcoreapp3.1\CLASSES_STATIC.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_STATIC\CLASSES_STATIC\obj\Debug\netcoreapp3.1\CLASSES_STATIC.genruntimeconfig.cache

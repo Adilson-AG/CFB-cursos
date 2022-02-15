@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\bin\Debug\netcoreapp3.1\METODOS_VIRTUAIS.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\bin\Debug\netcoreapp3.1\METODOS_VIRTUAIS.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\bin\Debug\netcoreapp3.1\METODOS_VIRTUAIS.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\bin\Debug\netcoreapp3.1\METODOS_VIRTUAIS.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\bin\Debug\netcoreapp3.1\METODOS_VIRTUAIS.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\bin\Debug\netcoreapp3.1\METODOS_VIRTUAIS.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\obj\Debug\netcoreapp3.1\METODOS_VIRTUAIS.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\obj\Debug\netcoreapp3.1\METODOS_VIRTUAIS.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\obj\Debug\netcoreapp3.1\METODOS_VIRTUAIS.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\obj\Debug\netcoreapp3.1\METODOS_VIRTUAIS.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\obj\Debug\netcoreapp3.1\METODOS_VIRTUAIS.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\obj\Debug\netcoreapp3.1\METODOS_VIRTUAIS.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\METODOS_VIRTUAIS\METODOS_VIRTUAIS\obj\Debug\netcoreapp3.1\METODOS_VIRTUAIS.genruntimeconfig.cache

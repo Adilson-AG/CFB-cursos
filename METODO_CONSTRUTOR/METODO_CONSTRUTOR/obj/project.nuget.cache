@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pnhikxqnj/G8DFqrxVBqwVO+zqCi+IwPeaJvdOxbvPKYWyLAebgJiB0ZB0BxPZtnRJpTgFt0Nl/u2FSgulEmlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\METODO_CONSTRUTOR\\METODO_CONSTRUTOR\\METODO_CONSTRUTOR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

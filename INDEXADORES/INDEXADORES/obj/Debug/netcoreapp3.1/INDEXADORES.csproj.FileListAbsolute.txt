@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\bin\Debug\netcoreapp3.1\INDEXADORES.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\bin\Debug\netcoreapp3.1\INDEXADORES.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\bin\Debug\netcoreapp3.1\INDEXADORES.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\bin\Debug\netcoreapp3.1\INDEXADORES.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\bin\Debug\netcoreapp3.1\INDEXADORES.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\bin\Debug\netcoreapp3.1\INDEXADORES.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\obj\Debug\netcoreapp3.1\INDEXADORES.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\obj\Debug\netcoreapp3.1\INDEXADORES.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\obj\Debug\netcoreapp3.1\INDEXADORES.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\obj\Debug\netcoreapp3.1\INDEXADORES.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\obj\Debug\netcoreapp3.1\INDEXADORES.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\obj\Debug\netcoreapp3.1\INDEXADORES.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\INDEXADORES\INDEXADORES\obj\Debug\netcoreapp3.1\INDEXADORES.genruntimeconfig.cache

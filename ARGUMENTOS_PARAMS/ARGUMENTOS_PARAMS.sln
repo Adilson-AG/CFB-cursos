@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARGUMENTOS_PARAMS", "ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS.csproj", "{C19840B6-447E-45D6-B341-91A5EE73A95A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C19840B6-447E-45D6-B341-91A5EE73A95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19840B6-447E-45D6-B341-91A5EE73A95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19840B6-447E-45D6-B341-91A5EE73A95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19840B6-447E-45D6-B341-91A5EE73A95A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A8531B-D4C6-418B-80DA-D21D2F128794}
+	EndGlobalSection
+EndGlobal

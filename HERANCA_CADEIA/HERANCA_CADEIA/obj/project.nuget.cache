@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W1Qsci/UQBoEcBoTny23xN+jUJpb5OVr2Vycv/OyDt72IocxoVp6XP5W9lqlSnWftwp4KBQvR1k9FAwtfpB2Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\HERANCA_CADEIA\\HERANCA_CADEIA\\HERANCA_CADEIA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\bin\Debug\netcoreapp3.1\do-wihile loop.exe
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\bin\Debug\netcoreapp3.1\do-wihile loop.deps.json
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\bin\Debug\netcoreapp3.1\do-wihile loop.runtimeconfig.json
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\bin\Debug\netcoreapp3.1\do-wihile loop.runtimeconfig.dev.json
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\bin\Debug\netcoreapp3.1\do-wihile loop.dll
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\bin\Debug\netcoreapp3.1\do-wihile loop.pdb
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\obj\Debug\netcoreapp3.1\do-wihile loop.csproj.AssemblyReference.cache
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\obj\Debug\netcoreapp3.1\do-wihile loop.AssemblyInfoInputs.cache
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\obj\Debug\netcoreapp3.1\do-wihile loop.AssemblyInfo.cs
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\obj\Debug\netcoreapp3.1\do-wihile loop.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\obj\Debug\netcoreapp3.1\do-wihile loop.dll
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\obj\Debug\netcoreapp3.1\do-wihile loop.pdb
+C:\Users\Adilson\source\repos\Loop-While\do-wihile loop\obj\Debug\netcoreapp3.1\do-wihile loop.genruntimeconfig.cache

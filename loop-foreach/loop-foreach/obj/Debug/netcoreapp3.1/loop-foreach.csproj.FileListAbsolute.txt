@@ -1,0 +1,13 @@
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\bin\Debug\netcoreapp3.1\loop-foreach.exe
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\bin\Debug\netcoreapp3.1\loop-foreach.deps.json
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\bin\Debug\netcoreapp3.1\loop-foreach.runtimeconfig.json
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\bin\Debug\netcoreapp3.1\loop-foreach.runtimeconfig.dev.json
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\bin\Debug\netcoreapp3.1\loop-foreach.dll
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\bin\Debug\netcoreapp3.1\loop-foreach.pdb
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\obj\Debug\netcoreapp3.1\loop-foreach.csproj.AssemblyReference.cache
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\obj\Debug\netcoreapp3.1\loop-foreach.AssemblyInfoInputs.cache
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\obj\Debug\netcoreapp3.1\loop-foreach.AssemblyInfo.cs
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\obj\Debug\netcoreapp3.1\loop-foreach.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\obj\Debug\netcoreapp3.1\loop-foreach.dll
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\obj\Debug\netcoreapp3.1\loop-foreach.pdb
+C:\Users\Adilson\source\repos\loop-foreach\loop-foreach\obj\Debug\netcoreapp3.1\loop-foreach.genruntimeconfig.cache

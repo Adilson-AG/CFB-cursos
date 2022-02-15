@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "klkhwlabCQZ+w6XeoZbtilyvHcM/tZQDjUsCIFH6NT4pEkM6tawOX57kqbX4247MLhJ4+gT23Tt0wLXCzEArGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\MEMBROS_PROTECTED\\MEMBROS_PROTECTED\\MEMBROS_PROTECTED.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GzBczrJMvZIAE/7sfbp6SiWLfkbGOrcpPgmoBcVzyZcWwVBe/bqanF1Qch3P8N4CeuL+uwyANp2dAHj1Z0Teug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\ARGUMENTO_OUT\\ARGUMENTO_OUT\\ARGUMENTO_OUT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

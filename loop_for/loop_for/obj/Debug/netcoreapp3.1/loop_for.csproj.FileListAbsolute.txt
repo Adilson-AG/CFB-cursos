@@ -1,0 +1,13 @@
+C:\Users\Adilson\source\repos\loop_for\loop_for\bin\Debug\netcoreapp3.1\loop_for.exe
+C:\Users\Adilson\source\repos\loop_for\loop_for\bin\Debug\netcoreapp3.1\loop_for.deps.json
+C:\Users\Adilson\source\repos\loop_for\loop_for\bin\Debug\netcoreapp3.1\loop_for.runtimeconfig.json
+C:\Users\Adilson\source\repos\loop_for\loop_for\bin\Debug\netcoreapp3.1\loop_for.runtimeconfig.dev.json
+C:\Users\Adilson\source\repos\loop_for\loop_for\bin\Debug\netcoreapp3.1\loop_for.dll
+C:\Users\Adilson\source\repos\loop_for\loop_for\bin\Debug\netcoreapp3.1\loop_for.pdb
+C:\Users\Adilson\source\repos\loop_for\loop_for\obj\Debug\netcoreapp3.1\loop_for.csproj.AssemblyReference.cache
+C:\Users\Adilson\source\repos\loop_for\loop_for\obj\Debug\netcoreapp3.1\loop_for.AssemblyInfoInputs.cache
+C:\Users\Adilson\source\repos\loop_for\loop_for\obj\Debug\netcoreapp3.1\loop_for.AssemblyInfo.cs
+C:\Users\Adilson\source\repos\loop_for\loop_for\obj\Debug\netcoreapp3.1\loop_for.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\source\repos\loop_for\loop_for\obj\Debug\netcoreapp3.1\loop_for.dll
+C:\Users\Adilson\source\repos\loop_for\loop_for\obj\Debug\netcoreapp3.1\loop_for.pdb
+C:\Users\Adilson\source\repos\loop_for\loop_for\obj\Debug\netcoreapp3.1\loop_for.genruntimeconfig.cache

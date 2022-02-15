@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LVXx/HbAws2RnzI4sCnAGxpsBr6BEcBUswuEKTXynWoZ5YXC511JkyJgmRK9xmRnDQ0t9AM6LDGSa9Vx0fRckw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\CLASSES_\\CLASSES_\\CLASSES_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\obj\Debug\netcoreapp3.1\GET_SET.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\obj\Debug\netcoreapp3.1\GET_SET.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\obj\Debug\netcoreapp3.1\GET_SET.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\obj\Debug\netcoreapp3.1\GET_SET.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\bin\Debug\netcoreapp3.1\GET_SET.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\bin\Debug\netcoreapp3.1\GET_SET.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\bin\Debug\netcoreapp3.1\GET_SET.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\bin\Debug\netcoreapp3.1\GET_SET.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\bin\Debug\netcoreapp3.1\GET_SET.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\bin\Debug\netcoreapp3.1\GET_SET.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\obj\Debug\netcoreapp3.1\GET_SET.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\obj\Debug\netcoreapp3.1\GET_SET.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\GET_SET\GET_SET\obj\Debug\netcoreapp3.1\GET_SET.genruntimeconfig.cache

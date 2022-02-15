@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kMx4NH1ldOsIAZwc6XaJ4fgUMsyf6Xp5LFkDVgC+bSnqHZS+teH3BOM77D+oWYNynCuwkvCo6Zp9OUX+1MQbVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\palavra_chave _THIS\\palavra_chave _THIS\\palavra_chave _THIS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t/VkdZ6e16tqW0hQ9zbMALg/OkIeE2cfPj4r9BBJD/b+RlT6EPLK/T2P7Qawc4OOyyevfpX0BiuU1LFQkN9kvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\metodos declasse array\\metodos declasse array\\metodos declasse array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

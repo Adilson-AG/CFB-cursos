@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ZUDhLwq7d6c7XiAF+OjQdSFob1xOEPfbOHox9S/5Ni12ZuxSfPyBUTwcTsAa+qlK/MfMV5QmtEMur3wFDb1Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\METODOS_VIRTUAIS\\METODOS_VIRTUAIS\\METODOS_VIRTUAIS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

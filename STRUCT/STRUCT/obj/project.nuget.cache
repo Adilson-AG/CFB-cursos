@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UZlDZHGaOkQcXsd12i5I2DpfQ8OvaG9mEommSZsRGlwnDL9f1OJfEvQFd69rwHXjpYNc8pj7pew/x3f49TkLgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\CFB CURSOS\\STRUCT\\STRUCT\\STRUCT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

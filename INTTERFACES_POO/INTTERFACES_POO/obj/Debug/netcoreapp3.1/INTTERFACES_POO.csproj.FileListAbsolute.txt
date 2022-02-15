@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\bin\Debug\netcoreapp3.1\INTTERFACES_POO.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\bin\Debug\netcoreapp3.1\INTTERFACES_POO.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\bin\Debug\netcoreapp3.1\INTTERFACES_POO.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\bin\Debug\netcoreapp3.1\INTTERFACES_POO.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\bin\Debug\netcoreapp3.1\INTTERFACES_POO.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\bin\Debug\netcoreapp3.1\INTTERFACES_POO.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\obj\Debug\netcoreapp3.1\INTTERFACES_POO.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\obj\Debug\netcoreapp3.1\INTTERFACES_POO.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\obj\Debug\netcoreapp3.1\INTTERFACES_POO.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\obj\Debug\netcoreapp3.1\INTTERFACES_POO.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\obj\Debug\netcoreapp3.1\INTTERFACES_POO.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\obj\Debug\netcoreapp3.1\INTTERFACES_POO.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\INTTERFACES_POO\INTTERFACES_POO\obj\Debug\netcoreapp3.1\INTTERFACES_POO.genruntimeconfig.cache

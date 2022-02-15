@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\bin\Debug\netcoreapp3.1\MEMBROS_PROTECTED.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\bin\Debug\netcoreapp3.1\MEMBROS_PROTECTED.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\bin\Debug\netcoreapp3.1\MEMBROS_PROTECTED.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\bin\Debug\netcoreapp3.1\MEMBROS_PROTECTED.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\bin\Debug\netcoreapp3.1\MEMBROS_PROTECTED.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\bin\Debug\netcoreapp3.1\MEMBROS_PROTECTED.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\obj\Debug\netcoreapp3.1\MEMBROS_PROTECTED.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\obj\Debug\netcoreapp3.1\MEMBROS_PROTECTED.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\obj\Debug\netcoreapp3.1\MEMBROS_PROTECTED.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\obj\Debug\netcoreapp3.1\MEMBROS_PROTECTED.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\obj\Debug\netcoreapp3.1\MEMBROS_PROTECTED.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\obj\Debug\netcoreapp3.1\MEMBROS_PROTECTED.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\MEMBROS_PROTECTED\MEMBROS_PROTECTED\obj\Debug\netcoreapp3.1\MEMBROS_PROTECTED.genruntimeconfig.cache

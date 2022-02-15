@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "00ib3yaRgJnpsG140vuQpaiGJnl5aO/QEU931b2DZ1v9e+Sy9kgH3pnZYdVVtoMw599bi0q7ZdmWMTPcWkyh0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\source\\repos\\loop-foreach\\loop-foreach\\loop-foreach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\bin\Debug\netcoreapp3.1\SWITCH-case.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\bin\Debug\netcoreapp3.1\SWITCH-case.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\bin\Debug\netcoreapp3.1\SWITCH-case.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\bin\Debug\netcoreapp3.1\SWITCH-case.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\bin\Debug\netcoreapp3.1\SWITCH-case.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\bin\Debug\netcoreapp3.1\SWITCH-case.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\obj\Debug\netcoreapp3.1\SWITCH-case.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\obj\Debug\netcoreapp3.1\SWITCH-case.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\obj\Debug\netcoreapp3.1\SWITCH-case.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\obj\Debug\netcoreapp3.1\SWITCH-case.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\obj\Debug\netcoreapp3.1\SWITCH-case.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\obj\Debug\netcoreapp3.1\SWITCH-case.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\SWITCH-case\SWITCH-case\obj\Debug\netcoreapp3.1\SWITCH-case.genruntimeconfig.cache

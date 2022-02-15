@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+6fnwHBXHRaSxyL6ytsz8DF1n8RxNMCOnL4SPEK2D0uTZsTCobynkNjXoRDek0pIl0acUsDSmwbN47ufaxC9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\source\\repos\\Loop-While\\Loop-While\\Loop-While.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

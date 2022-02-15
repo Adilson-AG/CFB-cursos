@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\bin\Debug\netcoreapp3.1\HERANCA_CADEIA.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\bin\Debug\netcoreapp3.1\HERANCA_CADEIA.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\bin\Debug\netcoreapp3.1\HERANCA_CADEIA.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\bin\Debug\netcoreapp3.1\HERANCA_CADEIA.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\bin\Debug\netcoreapp3.1\HERANCA_CADEIA.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\bin\Debug\netcoreapp3.1\HERANCA_CADEIA.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\obj\Debug\netcoreapp3.1\HERANCA_CADEIA.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\obj\Debug\netcoreapp3.1\HERANCA_CADEIA.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\obj\Debug\netcoreapp3.1\HERANCA_CADEIA.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\obj\Debug\netcoreapp3.1\HERANCA_CADEIA.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\obj\Debug\netcoreapp3.1\HERANCA_CADEIA.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\obj\Debug\netcoreapp3.1\HERANCA_CADEIA.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\HERANCA_CADEIA\HERANCA_CADEIA\obj\Debug\netcoreapp3.1\HERANCA_CADEIA.genruntimeconfig.cache

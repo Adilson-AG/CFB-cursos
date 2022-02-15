@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\bin\Debug\netcoreapp3.1\teste_heranca.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\bin\Debug\netcoreapp3.1\teste_heranca.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\bin\Debug\netcoreapp3.1\teste_heranca.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\bin\Debug\netcoreapp3.1\teste_heranca.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\bin\Debug\netcoreapp3.1\teste_heranca.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\bin\Debug\netcoreapp3.1\teste_heranca.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\obj\Debug\netcoreapp3.1\teste_heranca.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\obj\Debug\netcoreapp3.1\teste_heranca.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\obj\Debug\netcoreapp3.1\teste_heranca.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\obj\Debug\netcoreapp3.1\teste_heranca.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\obj\Debug\netcoreapp3.1\teste_heranca.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\obj\Debug\netcoreapp3.1\teste_heranca.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\teste_heranca\teste_heranca\obj\Debug\netcoreapp3.1\teste_heranca.genruntimeconfig.cache

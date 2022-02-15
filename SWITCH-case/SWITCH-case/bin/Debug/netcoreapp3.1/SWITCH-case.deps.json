@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SWITCH-case/1.0.0": {
+        "runtime": {
+          "SWITCH-case.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SWITCH-case/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

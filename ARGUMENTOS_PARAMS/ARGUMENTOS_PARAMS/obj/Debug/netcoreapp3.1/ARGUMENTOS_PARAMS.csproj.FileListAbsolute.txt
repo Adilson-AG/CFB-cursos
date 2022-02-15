@@ -1,0 +1,12 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS\bin\Debug\netcoreapp3.1\ARGUMENTOS_PARAMS.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS\bin\Debug\netcoreapp3.1\ARGUMENTOS_PARAMS.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS\bin\Debug\netcoreapp3.1\ARGUMENTOS_PARAMS.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS\bin\Debug\netcoreapp3.1\ARGUMENTOS_PARAMS.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS\bin\Debug\netcoreapp3.1\ARGUMENTOS_PARAMS.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS\bin\Debug\netcoreapp3.1\ARGUMENTOS_PARAMS.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS\obj\Debug\netcoreapp3.1\ARGUMENTOS_PARAMS.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS\obj\Debug\netcoreapp3.1\ARGUMENTOS_PARAMS.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS\obj\Debug\netcoreapp3.1\ARGUMENTOS_PARAMS.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS\obj\Debug\netcoreapp3.1\ARGUMENTOS_PARAMS.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS\obj\Debug\netcoreapp3.1\ARGUMENTOS_PARAMS.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\ARGUMENTOS_PARAMS\ARGUMENTOS_PARAMS\obj\Debug\netcoreapp3.1\ARGUMENTOS_PARAMS.genruntimeconfig.cache

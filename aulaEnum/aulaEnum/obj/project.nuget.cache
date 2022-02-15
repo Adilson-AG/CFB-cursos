@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2o1quCiOxYxe8ye2go9D81xT6/vtrWp17/oE5zdgAFipWENGsC2Aa+J7KfMvQHsNg/UWgL3W7B3QbegWtUPQyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\source\\repos\\aulaEnum\\aulaEnum\\aulaEnum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c5MObca1xldB+/iHwn36MVRZm1tjh353LOGvd2Ng3OBdC9PGTOTISBTy7cEES6yAeyX6b86RNTHi7/c/1shJ4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\SOBRECARGA_CONSTRUTORES\\SOBRECARGA_CONSTRUTORES\\SOBRECARGA_CONSTRUTORES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

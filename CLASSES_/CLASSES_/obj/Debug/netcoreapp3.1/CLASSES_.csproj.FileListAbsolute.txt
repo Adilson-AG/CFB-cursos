@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\bin\Debug\netcoreapp3.1\CLASSES_.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\bin\Debug\netcoreapp3.1\CLASSES_.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\bin\Debug\netcoreapp3.1\CLASSES_.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\bin\Debug\netcoreapp3.1\CLASSES_.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\bin\Debug\netcoreapp3.1\CLASSES_.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\bin\Debug\netcoreapp3.1\CLASSES_.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\obj\Debug\netcoreapp3.1\CLASSES_.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\obj\Debug\netcoreapp3.1\CLASSES_.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\obj\Debug\netcoreapp3.1\CLASSES_.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\obj\Debug\netcoreapp3.1\CLASSES_.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\obj\Debug\netcoreapp3.1\CLASSES_.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\obj\Debug\netcoreapp3.1\CLASSES_.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\CLASSES_\CLASSES_\obj\Debug\netcoreapp3.1\CLASSES_.genruntimeconfig.cache

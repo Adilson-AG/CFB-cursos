@@ -1,0 +1,26 @@
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.csproj.AssemblyReference.cache
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.AssemblyInfoInputs.cache
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.AssemblyInfo.cs
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\bin\Debug\netcoreapp3.1\metodos declasse array.exe
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\bin\Debug\netcoreapp3.1\metodos declasse array.deps.json
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\bin\Debug\netcoreapp3.1\metodos declasse array.runtimeconfig.json
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\bin\Debug\netcoreapp3.1\metodos declasse array.runtimeconfig.dev.json
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\bin\Debug\netcoreapp3.1\metodos declasse array.dll
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\bin\Debug\netcoreapp3.1\metodos declasse array.pdb
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.dll
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.pdb
+C:\Users\Adilson\source\repos\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.genruntimeconfig.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\bin\Debug\netcoreapp3.1\metodos declasse array.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\bin\Debug\netcoreapp3.1\metodos declasse array.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\bin\Debug\netcoreapp3.1\metodos declasse array.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\bin\Debug\netcoreapp3.1\metodos declasse array.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\bin\Debug\netcoreapp3.1\metodos declasse array.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\bin\Debug\netcoreapp3.1\metodos declasse array.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos declasse array\metodos declasse array\obj\Debug\netcoreapp3.1\metodos declasse array.genruntimeconfig.cache

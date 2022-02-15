@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kWY8FVG8yBmGf9gSThzvB7JDuQ5ZGN/f5VKc7Pyy4sj+1+z22IEN0QN4IQwhsNNtUuTEVQpmKze3hzUUttF9Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\GET_SET\\GET_SET\\GET_SET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

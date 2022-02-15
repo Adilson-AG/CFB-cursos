@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Wzj1MIbSWjH8rxy9zUVHdG57qLVUS+vLVp03AYdZbQFfGEqJJNc4ziE3TnAhppWxtSm8pknO4DVKc/hSM4NJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

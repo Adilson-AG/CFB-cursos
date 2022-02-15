@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vm5FwcC5jT71VAUlWw5CRvsspzrS4PMgtFihk4k7MTArl+70gzIo4vZ/dOans6y1uGdQoeu0Um7AVrb8YTRJ6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\metodos_aula2\\metodos_aula2\\metodos_aula2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B71cGBBzDOgrmlnM5GoijPDia/R54r+oewLidRv+mLgjWxYhZKbDTb1N4yEvFq8wbUxhZ6fiw0ub/7o42dXwzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adilson\\Desktop\\CFB CURSOS\\INTTERFACES_POO\\INTTERFACES_POO\\INTTERFACES_POO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

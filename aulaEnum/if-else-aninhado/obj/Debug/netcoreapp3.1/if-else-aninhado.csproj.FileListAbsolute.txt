@@ -1,0 +1,13 @@
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\bin\Debug\netcoreapp3.1\if-else-aninhado.exe
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\bin\Debug\netcoreapp3.1\if-else-aninhado.deps.json
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\bin\Debug\netcoreapp3.1\if-else-aninhado.runtimeconfig.json
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\bin\Debug\netcoreapp3.1\if-else-aninhado.runtimeconfig.dev.json
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\bin\Debug\netcoreapp3.1\if-else-aninhado.dll
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\bin\Debug\netcoreapp3.1\if-else-aninhado.pdb
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\obj\Debug\netcoreapp3.1\if-else-aninhado.csproj.AssemblyReference.cache
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\obj\Debug\netcoreapp3.1\if-else-aninhado.AssemblyInfoInputs.cache
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\obj\Debug\netcoreapp3.1\if-else-aninhado.AssemblyInfo.cs
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\obj\Debug\netcoreapp3.1\if-else-aninhado.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\obj\Debug\netcoreapp3.1\if-else-aninhado.dll
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\obj\Debug\netcoreapp3.1\if-else-aninhado.pdb
+C:\Users\Adilson\source\repos\aulaEnum\if-else-aninhado\obj\Debug\netcoreapp3.1\if-else-aninhado.genruntimeconfig.cache

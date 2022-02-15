@@ -1,0 +1,13 @@
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\bin\Debug\netcoreapp3.1\metodos_aula2.exe
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\bin\Debug\netcoreapp3.1\metodos_aula2.deps.json
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\bin\Debug\netcoreapp3.1\metodos_aula2.runtimeconfig.json
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\bin\Debug\netcoreapp3.1\metodos_aula2.runtimeconfig.dev.json
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\bin\Debug\netcoreapp3.1\metodos_aula2.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\bin\Debug\netcoreapp3.1\metodos_aula2.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\obj\Debug\netcoreapp3.1\metodos_aula2.csproj.AssemblyReference.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\obj\Debug\netcoreapp3.1\metodos_aula2.AssemblyInfoInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\obj\Debug\netcoreapp3.1\metodos_aula2.AssemblyInfo.cs
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\obj\Debug\netcoreapp3.1\metodos_aula2.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\obj\Debug\netcoreapp3.1\metodos_aula2.dll
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\obj\Debug\netcoreapp3.1\metodos_aula2.pdb
+C:\Users\Adilson\Desktop\CFB CURSOS\metodos_aula2\metodos_aula2\obj\Debug\netcoreapp3.1\metodos_aula2.genruntimeconfig.cache
